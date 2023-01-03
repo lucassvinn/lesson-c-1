@@ -5,7 +5,8 @@
 - **Conclusion:** The first task was very simple but you can see the degree of complexity of the language 🌱
 - ⤵ **Image fo Code**:
 
-![image](https://user-images.githubusercontent.com/119816215/210404700-bf557eca-428e-47fb-9574-9abb100356dd.png)
+![image](https://user-images.githubusercontent.com/119816215/210404789-eab74a3f-78dc-4d55-a6e2-60e69a71e032.png)
+
 
 
 
